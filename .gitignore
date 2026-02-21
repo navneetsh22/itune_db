@@ -1,0 +1,15 @@
+*.env
+.env
+.ENV
+*.log
+*.temp
+.pbix
+.xlsx
+*.csv
+.py
+.ipynb
+thumbs.db
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
