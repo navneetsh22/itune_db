@@ -1,6 +1,6 @@
 -- View: public.top_customers
 
--- DROP VIEW public.top_customers;
+-- which customers have spent more money on music? 
 
 CREATE OR REPLACE VIEW public.top_customers
  AS
