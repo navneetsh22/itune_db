@@ -23,4 +23,7 @@ Analyze customer purchase behaviour and revenue trends
  -  Month peak sale is on 2018-01-01 , and its monthly revenue is 183.15.
  -  The most popular genre is ' Rock ' with total track sold 2635.
  -  Genre , which have high unit price 1.99, is sold only 03 unit and generate only 2.97 revenue .
- -  Employee ' Jane Peacock ' earned highest revenue . 
+ -  Employee ' Jane Peacock ' earned highest revenue .
+  ## Tech Stack
+  - Postgresql
+  - Github 
