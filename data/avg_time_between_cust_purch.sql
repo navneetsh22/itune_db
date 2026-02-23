@@ -1,3 +1,4 @@
+--AVG time between customer purchases 
 CREATE VIEW avg_time_between_cust_purch AS SELECT 
     ROUND(AVG(days_between), 2) AS avg_days_between_purchases
 FROM (

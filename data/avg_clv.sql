@@ -1,4 +1,4 @@
-create view avg_clv as SELECT 
+-- AVG customer lifetime value create view avg_clv as SELECT 
     AVG(customer_total) AS avg_customer_lifetime_value
 FROM (
     SELECT 

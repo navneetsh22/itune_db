@@ -1,6 +1,4 @@
--- View: public.avg_invoice_value
-
--- DROP VIEW public.avg_invoice_value;
+-- AVG of invoice value 
 
 CREATE OR REPLACE VIEW public.avg_invoice_value
  AS
